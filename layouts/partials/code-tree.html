@@ -1,0 +1,2 @@
+{{- $content := .content | strings.TrimPrefix "\n" | strings.TrimSuffix "\n" -}}
+<pre class="code-tree" tabindex="0"><code>{{ $content }}</code></pre>

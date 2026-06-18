@@ -1,0 +1,28 @@
+/* Plain fenced code blocks (no language tag) break under PaperMod's grid layout. */
+.md-content pre > code:not([class]) {
+    display: block;
+    white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
+}
+
+.md-content pre.code-tree {
+    margin-bottom: var(--content-gap);
+    background: var(--code-block-bg);
+    border-radius: var(--radius);
+    overflow-x: auto;
+}
+
+.md-content pre.code-tree > code {
+    display: block;
+    white-space: pre;
+    word-break: normal;
+    overflow-wrap: normal;
+    margin: 0;
+    padding: 10px;
+    color: #d5d5d6;
+    background: var(--code-block-bg) !important;
+    border-radius: var(--radius);
+    font-size: 0.9em;
+    line-height: 1.5;
+}

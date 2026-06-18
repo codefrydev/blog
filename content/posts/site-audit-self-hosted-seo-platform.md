@@ -122,7 +122,7 @@ Site Audit is built with tools developers already know:
 
 Architecture at a glance:
 
-```
+{{< tree >}}
 WebsiteProfiling/
 ├── src/website_profiling/   # Python audit engine (CLI + MCP)
 │   ├── crawl/               # Crawler, fetchers, JS rendering
@@ -133,7 +133,7 @@ WebsiteProfiling/
 ├── web/                     # Next.js UI + API routes
 ├── alembic/                 # PostgreSQL migrations
 └── docker-compose.yml       # One-command local stack
-```
+{{< /tree >}}
 
 ## Honest limitations (on purpose)
 
