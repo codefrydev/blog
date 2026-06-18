@@ -1,0 +1,62 @@
+baseURL: https://codefrydev.in/blog/
+locale: en-US
+title: CFD blog
+theme: PaperMod
+
+mainSections:
+  - posts
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: CFD blog
+  description: Updates, open-source projects, and engineering notes from CFD blog.
+  keywords:
+    - CodeFryDev
+    - open source
+    - web development
+    - SEO
+    - tools
+  author: CodeFryDev
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+
+  assets:
+    favicon: favicon.ico
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: safari-pinned-tab.svg
+
+  label:
+    text: CFD blog
+    icon: favicon.ico
+    iconHeight: 35
+
+menu:
+  main:
+    - identifier: home
+      name: CodeFryDev
+      url: https://codefrydev.in/
+      weight: 5
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
