@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on CFD blog</title>
+    <link>https://codefrydev.in/blog/tags/</link>
+    <description>Recent content in Tags on CFD blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://codefrydev.in/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nextjs</title>
+      <link>https://codefrydev.in/blog/tags/nextjs/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>https://codefrydev.in/blog/tags/opensource/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://codefrydev.in/blog/tags/python/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Selfhosted</title>
+      <link>https://codefrydev.in/blog/tags/selfhosted/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/selfhosted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seo</title>
+      <link>https://codefrydev.in/blog/tags/seo/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>https://codefrydev.in/blog/tags/webdev/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/webdev/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
