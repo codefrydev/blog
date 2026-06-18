@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tools on CFD blog</title>
-    <link>https://codefrydev.in/blog/tags/tools/</link>
-    <description>Recent content in Tools on CFD blog</description>
+    <title>Json on CFD blog</title>
+    <link>https://codefrydev.in/blog/tags/json/</link>
+    <description>Recent content in Json on CFD blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://codefrydev.in/blog/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codefrydev.in/blog/tags/json/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON Explorer: A Free Browser Playground for JSON, Data Formats, and Quick Experiments</title>
       <link>https://codefrydev.in/blog/posts/json-explorer/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://codefrydev.in/blog/posts/json-explorer/</guid>
       <description>JSON Explorer is a free, no-sign-up browser tool to explore JSON, run JavaScript against your data, convert between formats, and decode JWTs — all without leaving your tab.</description>
-    </item>
-    <item>
-      <title>Website Resolution Tester: Preview Your Site on Any Screen Size—Instantly</title>
-      <link>https://codefrydev.in/blog/posts/website-resolution-tester/</link>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://codefrydev.in/blog/posts/website-resolution-tester/</guid>
-      <description>A free, browser-based tool to preview any website at exact device viewport sizes. Device presets from iPhone 4 to iPhone 17, batch testing, localhost support, and shareable links.</description>
     </item>
   </channel>
 </rss>
