@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Responsive-Design on CFD blog</title>
+    <link>https://codefrydev.in/blog/tags/responsive-design/</link>
+    <description>Recent content in Responsive-Design on CFD blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://codefrydev.in/blog/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Resolution Tester: Preview Your Site on Any Screen Size—Instantly</title>
+      <link>https://codefrydev.in/blog/posts/website-resolution-tester/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/website-resolution-tester/</guid>
+      <description>A free, browser-based tool to preview any website at exact device viewport sizes. Device presets from iPhone 4 to iPhone 17, batch testing, localhost support, and shareable links.</description>
+    </item>
+  </channel>
+</rss>

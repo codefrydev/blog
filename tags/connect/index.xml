@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Connect on CFD blog</title>
+    <link>https://codefrydev.in/blog/tags/connect/</link>
+    <description>Recent content in Connect on CFD blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://codefrydev.in/blog/tags/connect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connect: Meet the World, One Conversation at a Time</title>
+      <link>https://codefrydev.in/blog/posts/connect-anonymous-random-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/connect-anonymous-random-chat/</guid>
+      <description>A free, browser-based way to talk to strangers — anonymously, instantly, and on your terms. Text or video. No signup required.</description>
+    </item>
+  </channel>
+</rss>

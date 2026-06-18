@@ -9,10 +9,31 @@
     <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://codefrydev.in/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Connect</title>
+      <link>https://codefrydev.in/blog/tags/connect/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/connect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>https://codefrydev.in/blog/tags/games/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/games/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Nextjs</title>
       <link>https://codefrydev.in/blog/tags/nextjs/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://codefrydev.in/blog/tags/nextjs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onlinegames</title>
+      <link>https://codefrydev.in/blog/tags/onlinegames/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/onlinegames/</guid>
       <description></description>
     </item>
     <item>
@@ -30,6 +51,13 @@
       <description></description>
     </item>
     <item>
+      <title>Responsive-Design</title>
+      <link>https://codefrydev.in/blog/tags/responsive-design/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/responsive-design/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Selfhosted</title>
       <link>https://codefrydev.in/blog/tags/selfhosted/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
@@ -41,6 +69,13 @@
       <link>https://codefrydev.in/blog/tags/seo/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://codefrydev.in/blog/tags/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://codefrydev.in/blog/tags/tools/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/tags/tools/</guid>
       <description></description>
     </item>
     <item>

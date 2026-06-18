@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Onlinegames on CFD blog</title>
+    <link>https://codefrydev.in/blog/tags/onlinegames/</link>
+    <description>Recent content in Onlinegames on CFD blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://codefrydev.in/blog/tags/onlinegames/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Together, Anywhere: Introducing CodeFry Online Games</title>
+      <link>https://codefrydev.in/blog/posts/codefry-online-games/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/codefry-online-games/</guid>
+      <description>Free browser games with friends — no download, no account, no hassle. Chess, Chain Reaction, Ludo, and more with local, AI, and online multiplayer.</description>
+    </item>
+  </channel>
+</rss>

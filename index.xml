@@ -9,11 +9,32 @@
     <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://codefrydev.in/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Connect: Meet the World, One Conversation at a Time</title>
+      <link>https://codefrydev.in/blog/posts/connect-anonymous-random-chat/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/connect-anonymous-random-chat/</guid>
+      <description>A free, browser-based way to talk to strangers — anonymously, instantly, and on your terms. Text or video. No signup required.</description>
+    </item>
+    <item>
+      <title>Play Together, Anywhere: Introducing CodeFry Online Games</title>
+      <link>https://codefrydev.in/blog/posts/codefry-online-games/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/codefry-online-games/</guid>
+      <description>Free browser games with friends — no download, no account, no hassle. Chess, Chain Reaction, Ludo, and more with local, AI, and online multiplayer.</description>
+    </item>
+    <item>
       <title>Site Audit: A Self-Hosted, Developer-Friendly SEO Platform I Built (and Open-Sourced)</title>
       <link>https://codefrydev.in/blog/posts/site-audit-self-hosted-seo-platform/</link>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://codefrydev.in/blog/posts/site-audit-self-hosted-seo-platform/</guid>
       <description>Crawl your sites, triage issues, connect Search Console, and export client reports — on infrastructure you control.</description>
+    </item>
+    <item>
+      <title>Website Resolution Tester: Preview Your Site on Any Screen Size—Instantly</title>
+      <link>https://codefrydev.in/blog/posts/website-resolution-tester/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://codefrydev.in/blog/posts/website-resolution-tester/</guid>
+      <description>A free, browser-based tool to preview any website at exact device viewport sizes. Device presets from iPhone 4 to iPhone 17, batch testing, localhost support, and shareable links.</description>
     </item>
   </channel>
 </rss>
