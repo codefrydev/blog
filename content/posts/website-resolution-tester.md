@@ -1,7 +1,7 @@
 ---
 title: "Website Resolution Tester: Preview Your Site on Any Screen Size—Instantly"
 description: "A free, browser-based tool to preview any website at exact device viewport sizes. Device presets from iPhone 4 to iPhone 17, batch testing, localhost support, and shareable links."
-date: 2026-06-18T20:00:00+00:00
+date: 2026-06-18T00:00:00+00:00
 draft: false
 tags:
   - webdev

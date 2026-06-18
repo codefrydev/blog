@@ -33,6 +33,7 @@ params:
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   ShowToc: true
+  disableSpecial1stPost: true
 
   assets:
     favicon: favicon.ico

@@ -1,7 +1,7 @@
 ---
 title: "Connect: Meet the World, One Conversation at a Time"
 description: "A free, browser-based way to talk to strangers — anonymously, instantly, and on your terms. Text or video. No signup required."
-date: 2026-06-18T12:00:00+00:00
+date: 2026-06-18T00:00:00+00:00
 draft: false
 tags:
   - webdev

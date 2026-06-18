@@ -1,7 +1,7 @@
 ---
 title: "Play Together, Anywhere: Introducing CodeFry Online Games"
 description: "Free browser games with friends — no download, no account, no hassle. Chess, Chain Reaction, Ludo, and more with local, AI, and online multiplayer."
-date: 2026-06-18T18:00:00+00:00
+date: 2026-06-18T00:00:00+00:00
 draft: false
 tags:
   - webdev
