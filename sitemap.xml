@@ -65,5 +65,7 @@
     <loc>https://codefrydev.in/blog/archives/</loc>
   </url><url>
     <loc>https://codefrydev.in/blog/categories/</loc>
+  </url><url>
+    <loc>https://codefrydev.in/blog/search/</loc>
   </url>
 </urlset>
